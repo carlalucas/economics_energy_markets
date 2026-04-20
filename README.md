@@ -1,6 +1,8 @@
 # economics_energy_markets
 
-Group work for the **Economics of Energy Markets** class based on **TREMI 2020** microdata.
+Economics of Energy Markets - ENSAE Paris - Institut Polytechnique de Paris
+
+Group work based on **TREMI 2020** microdata.
 
 ## Project topic: energy efficiency policies
 
